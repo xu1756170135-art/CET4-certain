@@ -1,0 +1,94 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-21",
+ "book": {
+  "id": "CET4",
+  "name": "大学英语四级核心词汇",
+  "source": "kyleBing/english-vocabulary · full_line_jsonl/full/正序/四级.jsonl"
+ },
+ "total": 4544,
+ "chunkSize": 600,
+ "chunks": [
+  {
+   "n": 1,
+   "file": "chunk-1.json",
+   "detail": "chunk-1.detail.json",
+   "extra": "chunk-1.extra.json",
+   "start": 1,
+   "end": 600,
+   "count": 600,
+   "letters": "a-p"
+  },
+  {
+   "n": 2,
+   "file": "chunk-2.json",
+   "detail": "chunk-2.detail.json",
+   "extra": "chunk-2.extra.json",
+   "start": 601,
+   "end": 1200,
+   "count": 600,
+   "letters": "p-a"
+  },
+  {
+   "n": 3,
+   "file": "chunk-3.json",
+   "detail": "chunk-3.detail.json",
+   "extra": "chunk-3.extra.json",
+   "start": 1201,
+   "end": 1800,
+   "count": 600,
+   "letters": "a-c"
+  },
+  {
+   "n": 4,
+   "file": "chunk-4.json",
+   "detail": "chunk-4.detail.json",
+   "extra": "chunk-4.extra.json",
+   "start": 1801,
+   "end": 2400,
+   "count": 600,
+   "letters": "c-f"
+  },
+  {
+   "n": 5,
+   "file": "chunk-5.json",
+   "detail": "chunk-5.detail.json",
+   "extra": "chunk-5.extra.json",
+   "start": 2401,
+   "end": 3000,
+   "count": 600,
+   "letters": "f-l"
+  },
+  {
+   "n": 6,
+   "file": "chunk-6.json",
+   "detail": "chunk-6.detail.json",
+   "extra": "chunk-6.extra.json",
+   "start": 3001,
+   "end": 3600,
+   "count": 600,
+   "letters": "l-p"
+  },
+  {
+   "n": 7,
+   "file": "chunk-7.json",
+   "detail": "chunk-7.detail.json",
+   "extra": "chunk-7.extra.json",
+   "start": 3601,
+   "end": 4200,
+   "count": 600,
+   "letters": "p-r"
+  },
+  {
+   "n": 8,
+   "file": "chunk-8.json",
+   "detail": "chunk-8.detail.json",
+   "extra": "chunk-8.extra.json",
+   "start": 4201,
+   "end": 4544,
+   "count": 344,
+   "letters": "s-s"
+  }
+ ],
+ "examQuestionCount": 613
+}

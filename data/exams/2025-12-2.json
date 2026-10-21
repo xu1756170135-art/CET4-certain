@@ -1,0 +1,695 @@
+{
+ "id": "2025-12-2",
+ "session": "2025-12",
+ "set": 2,
+ "title": "2025 年 12 月 · 第 2 套",
+ "writing": {
+  "prompt": "Directions: Suppose it is proposed that all university students should be required to learn academic writing. You are now to write a response by stating what you think of the proposal. You will have 30 minutes to write the essay. You should write at least 120 words but no more than 180 words.",
+  "sample": "It has recently been proposed that all university students should be required to learn academic writing. In my view, this proposal deserves our full support, for such a skill is far more than an optional refinement. For one thing, academic writing trains students to organize ideas logically and cite sources honestly. When I wrote my first term paper, I struggled to structure arguments and nearly copied online material by mistake; a writing course would have taught me both clear reasoning and academic integrity. For another, this ability pays off well beyond campus. Whether a graduate applies for a research position or drafts a report at work, the capacity to express thoughts precisely on paper often determines success. Admittedly, mastering academic writing takes time and effort. Nevertheless, the long-term rewards clearly outweigh the cost. Therefore, I strongly believe universities should make this course compulsory, ideally starting from the first year so that students benefit throughout their studies.",
+  "sampleZh": "近来有人提议，所有大学生都应必修学术写作。在我看来，这一提议值得我们全力支持，因为这项技能远不只是锦上添花。一方面，学术写作训练学生把思路组织得有条理，并如实引用资料来源。我第一次写学期论文时，就苦于难以搭建论证结构，还险些误抄了网上的材料；一门写作课本可以同时教会我清晰的逻辑与学术诚信。另一方面，这项能力在校园之外同样受用。无论毕业生是申请科研岗位，还是在职场撰写报告，把想法在纸面上精准表达的能力，往往决定着成败。诚然，掌握学术写作需要时间和努力。然而，其长远回报显然远大于付出的成本。因此，我坚信大学应将这门课程设为必修，最好从大一就开设，让学生在整个学业期间都从中受益。",
+  "points": "要展开的要点 打牢论文规范与学术诚信 理由一扣住学术写作的本职价值：它教学生把观点组织得有逻辑、并如实引用他人成果，直接关系到论文规范与学术诚信。这条能用『第一次写学期论文时结构混乱、险些误抄』的亲身场景撑起一整段，具体可感。 为深造与就业铺路 理由二把价值延伸到校园之外：无论毕业后申请科研岗位还是在职场写报告，精准的书面表达往往决定成败。这一条紧扣『学术写作』迁移出的长远回报，避免写成『英语写作』或空泛的『写作有好处』。 让步后重申立场 第三点作收束：承认掌握学术写作确实费时费力，但长远回报远大于成本，因此仍应必修，并温和补一句『最好从大一开始开设』作为补充建议。"
+ },
+ "listening": {
+  "sections": [],
+  "note": "本套听力音频与题干未采集：官方不公开音频，第三方音源需单独下载。可先做阅读与翻译。"
+ },
+ "reading": {
+  "bankedCloze": {
+   "passage": "Some music inspires you to move your feet, some inspires you to get out there and change the world. In any case, it's __26__ to say that music moves people in special ways.\nIf you're especially into a piece of music, your brain does something called Autonomous Sensory Meridian Response (ASMR), which __27__ to you like a sting in your brain.\nIt turns out that ASMR is pretty special. According to a __28__ published study in The Journal of Prevention of Alzheimer's Disease, the part of your brain responsible for ASMR doesn't get lost to Alzheimer's. Alzheimer's __29__ to put people into layers of confusion, and the study confirms that music can sometimes __30__ lift people out of the Alzheimer's haze and bring them back to (at least a likeness of) normality … if only for a short while. ASMR is powerful stuff!\nThis phenomenon has been __31__ several times but rarely studied properly. One of the most famous examples of this is the story of 92-year-old Henry Dryer, who comes out of dementia(痴呆) while listening to songs from his youth.\nJeff Anderson, associate professor in Radiology at the University of Utah and __32__ author on the study, says \"In our society, the diagnoses of dementia are __33__ resources to the maximum. No one says playing music will be a cure for Alzheimer's disease, but it might make the symptoms more __34__ , decrease the cost of care and improve a patient's __35__ of life.\"",
+   "bank": [
+    {
+     "k": "A",
+     "w": "actually"
+    },
+    {
+     "k": "B",
+     "w": "consequently"
+    },
+    {
+     "k": "C",
+     "w": "contributing"
+    },
+    {
+     "k": "D",
+     "w": "fair"
+    },
+    {
+     "k": "E",
+     "w": "feels"
+    },
+    {
+     "k": "F",
+     "w": "manageable"
+    },
+    {
+     "k": "G",
+     "w": "mends"
+    },
+    {
+     "k": "H",
+     "w": "observed"
+    },
+    {
+     "k": "I",
+     "w": "phase"
+    },
+    {
+     "k": "J",
+     "w": "plotting"
+    },
+    {
+     "k": "K",
+     "w": "quality"
+    },
+    {
+     "k": "L",
+     "w": "recently"
+    },
+    {
+     "k": "M",
+     "w": "taxing"
+    },
+    {
+     "k": "N",
+     "w": "tends"
+    },
+    {
+     "k": "O",
+     "w": "yielded"
+    }
+   ],
+   "items": [
+    {
+     "no": 26,
+     "answer": "D",
+     "word": "fair",
+     "linkedWords": [
+      "CET4_0812"
+     ]
+    },
+    {
+     "no": 27,
+     "answer": "E",
+     "word": "feels",
+     "linkedWords": [
+      "CET4_2312"
+     ]
+    },
+    {
+     "no": 28,
+     "answer": "L",
+     "word": "recently",
+     "linkedWords": [
+      "CET4_3716"
+     ]
+    },
+    {
+     "no": 29,
+     "answer": "N",
+     "word": "tends",
+     "linkedWords": [
+      "CET4_3999"
+     ]
+    },
+    {
+     "no": 30,
+     "answer": "A",
+     "word": "actually",
+     "linkedWords": [
+      "CET4_1205"
+     ]
+    },
+    {
+     "no": 31,
+     "answer": "H",
+     "word": "observed",
+     "linkedWords": [
+      "CET4_0938"
+     ]
+    },
+    {
+     "no": 32,
+     "answer": "C",
+     "word": "contributing",
+     "linkedWords": [
+      "CET4_0200"
+     ]
+    },
+    {
+     "no": 33,
+     "answer": "M",
+     "word": "taxing",
+     "linkedWords": [
+      "CET4_4535"
+     ]
+    },
+    {
+     "no": 34,
+     "answer": "F",
+     "word": "manageable",
+     "linkedWords": []
+    },
+    {
+     "no": 35,
+     "answer": "K",
+     "word": "quality",
+     "linkedWords": [
+      "CET4_0619"
+     ]
+    }
+   ]
+  },
+  "matching": {
+   "paragraphs": [
+    {
+     "letter": "A",
+     "text": "The gaming industry is larger than films and music combined, yet few of us are likely to list our achievements in playing computer games as work experience in our résumé. But why not? Businesses are waking up to the skills gamers can bring to the workplace."
+    },
+    {
+     "letter": "B",
+     "text": "One start-up is convinced that the skills learned by playing games — hard-won through years of training and battle — can be applied to real-life work situations. And Game Academy reckons its belief is backed up by hard data. Do you enjoy unusual puzzle games like Portal, or tower defence games like Defense Grid? The team has found that IT workers play those more than average. But if you prefer Civilization, Total War, or X-Com, where strategy and resource management are key, then you might have more in common with managers."
+    },
+    {
+     "letter": "C",
+     "text": "Game Academy's idea is simple: analyse gamers' habits from their online gaming profile, and offer courses in valuable skills that reflect their aptitudes — skills they can practise and refine in-game. And there is already a growing acceptance that gaming skills are transferable."
+    },
+    {
+     "letter": "D",
+     "text": "Even the military is hiring gamers. \"The ability to absorb information, react swiftly and coordinate actions whilst remaining calm under pressure are often attributes of people that are good at gaming,\" according to a Royal Air Force spokesperson. Those skills are part of what the Royal Air Force is looking for \"in a variety of roles\". \"Skills acquired through gaming can be very relevant to certain areas.\""
+    },
+    {
+     "letter": "E",
+     "text": "\"There are plenty of soft skills that gamers can utilise in a professional setting, such as teamwork, problem solving and strategic planning,\" says Ryan Gardner, a regional director with Hays recruitment. But does that really mean your top 100 ranking in Overwatch should go down in your résumé? \"It's about how you either make it relevant to the job you are applying for, or how it makes you more interesting as a potential employee,\" Mr Gardner says."
+    },
+    {
+     "letter": "F",
+     "text": "Two years ago, a Glasgow University study made headlines for suggesting gaming could make students more successful. But \"the research hasn't really changed minds, at least not yet,\" says one of the authors of the study, Dr Matthew Barr. He's now writing a book on the topic. \"For now, I think the negative reputation around games means that telling someone you're a determined gamer is more likely to harm your chances of getting a job. But if someone can explain how they've led a team in an online game, for example, they may be able to persuade an employer that this is useful,\" says Dr Barr."
+    },
+    {
+     "letter": "G",
+     "text": "Playing games casually is unlikely to help your career prospects. But part of Game Academy's suggestion is to transform casual gamers into \"conscious\" ones, applying critical thinking to developing their skills. \"We see gameplay as a resource of talent,\" says co-founder David Barrie. \"Why can't we put in our résumé our gaming victories and achievements?\" he asks. \"If they say they want leadership — why can't I point to my years of leading World of Warcraft raids?\""
+    },
+    {
+     "letter": "H",
+     "text": "There are already plenty of gamers out there who know that their hobby has made them who they are. Earlier this year, Matthew Ricci told gaming site Kotaku: \"If you're playing EVE Online you basically already have an MBA.\" Often made fun of in gaming circles as a \"spreadsheet simulator(电子表格模拟)\", the economy of the fictional EVE universe is driven by real market principles. If you want to build a new spaceship, the raw material has to be mined by another player. Manufacturing costs come into effect, and commodities fluctuate in price based on demand and the distance to haul the commodity."
+    },
+    {
+     "letter": "I",
+     "text": "Mr Ricci, who had always dreamed of being the boss of his own company, ran an in-game corporation comprising hundreds of players. Eventually, he realised he could transfer his skills to real-life business — instead of doing it for free. He restructured Zentech, once a taxation vehicle for his father's business, and it is now in its fourth year helping international brands enter the Canadian market. EVE teaches skills like creativity, leadership, organisation, and conflict resolution, he maintains. He credits his success to his family, his strong desire to run his own business — and \"a damn good company in Iceland that made a damn good game\"."
+    },
+    {
+     "letter": "J",
+     "text": "Digital entrepreneur and business consultant Mia Bennett says: \"In more traditional settings, gaming is still imagined to be the pursuit of teenage boys — a waste of time.\" But there are some links to skills like \"decision-making, the ability to anticipate and future planning,\" she says. \"It also helps with meta-skills — learning how to learn, experimentation, and creative thinking.\""
+    },
+    {
+     "letter": "K",
+     "text": "Twelve years into his career, Mark Long, a radiotherapy physicist with the NHS in Surrey, doesn't get as much gaming time as he used to. \"I would love to say that my gaming skills allow me to destroy cancer using linear accelerators like photon(光子) blasters, but that's not quite the reality.\" Instead, he credits old-school games like Palace of Magic with exposing him to computers. Every new gaming upgrade improved his knowledge of how they worked. Gaming also encouraged a competitive spirit — and that, he believes, translates. \"When creating treatment plans, the aim is to optimise the radiation dose to the tumour and restrict it as much as possible to healthy surrounding tissues and organs,\" he says. It's about \"repeating the process, but each time doing something slightly different to improve the result\". Not unlike achieving a high score or a perfect run. \"Most videogames are essentially puzzles to solve,\" he says. \"And problem-solving is a big part of my job.\""
+    },
+    {
+     "letter": "L",
+     "text": "\"Over at Game Academy, Mr Barrie is aware they still have a mountain to climb. The employer community will need the science,\" he says, but confesses he only became a true believer when he started asking players about their biggest in-game achievements. \"The scale and scope of their answers were amazing,\" he says. \"But ask them the same about their work, and they don't know.\" \"The engagement and powerful skills that people get playing a game — why can't work be like that?\" he asks."
+    }
+   ],
+   "items": [
+    {
+     "no": 36,
+     "answer": "D",
+     "stem": "Certain gaming skills meet the requirements of the armed forces in Britain.",
+     "linkedWords": [
+      "CET4_3765",
+      "CET4_1658",
+      "CET4_1547",
+      "CET4_2458",
+      "CET4_2385"
+     ]
+    },
+    {
+     "no": 37,
+     "answer": "I",
+     "stem": "One veteran player has applied his gaming skills to his real-world business and owes his success partly to a game company.",
+     "linkedWords": [
+      "CET4_1578",
+      "CET4_4121",
+      "CET4_1779",
+      "CET4_3519",
+      "CET4_2458"
+     ]
+    },
+    {
+     "no": 38,
+     "answer": "F",
+     "stem": "According to a researcher, bad reputation about games will probably limit a gamer's chances of landing a job.",
+     "linkedWords": [
+      "CET4_0657",
+      "CET4_1668",
+      "CET4_2890",
+      "CET4_2458",
+      "CET4_2968"
+     ]
+    },
+    {
+     "no": 39,
+     "answer": "A",
+     "stem": "Businesses are beginning to realise gaming skills are applicable to their employees' work.",
+     "linkedWords": [
+      "CET4_1578",
+      "CET4_1304",
+      "CET4_1437",
+      "CET4_2168",
+      "CET4_2458"
+     ]
+    },
+    {
+     "no": 40,
+     "answer": "K",
+     "stem": "A physicist admits gaming has contributed to his computer knowledge and skills of solving problems.",
+     "linkedWords": [
+      "CET4_0200",
+      "CET4_3487",
+      "CET4_2875",
+      "CET4_1795",
+      "CET4_3616"
+     ]
+    },
+    {
+     "no": 41,
+     "answer": "G",
+     "stem": "Game Academy proposes to help gamers develop their skills using critical thinking.",
+     "linkedWords": [
+      "CET4_3636",
+      "CET4_0214",
+      "CET4_4474",
+      "CET4_1175",
+      "CET4_1994"
+     ]
+    },
+    {
+     "no": 42,
+     "answer": "B",
+     "stem": "One who enjoys playing games that require management skills to win might possess more qualities of a manager.",
+     "linkedWords": [
+      "CET4_3041",
+      "CET4_0619",
+      "CET4_3518",
+      "CET4_0659",
+      "CET4_3559"
+     ]
+    },
+    {
+     "no": 43,
+     "answer": "J",
+     "stem": "In more conventional views, gaming is a time-wasting activity pursued by young boys.",
+     "linkedWords": [
+      "CET4_0203",
+      "CET4_1201",
+      "CET4_0616",
+      "CET4_2458",
+      "CET4_0795"
+     ]
+    },
+    {
+     "no": 44,
+     "answer": "E",
+     "stem": "It is suggested that gaming skills be included in a résumé if they enhance a job applicant's appeal.",
+     "linkedWords": [
+      "CET4_0434",
+      "CET4_0312",
+      "CET4_2458",
+      "CET4_0053"
+     ]
+    },
+    {
+     "no": 45,
+     "answer": "H",
+     "stem": "Many gamers know their passion for playing games has shaped their identity. Section C",
+     "linkedWords": [
+      "CET4_0416",
+      "CET4_0555",
+      "CET4_3518",
+      "CET4_3838",
+      "CET4_2458"
+     ]
+    }
+   ]
+  },
+  "carefulReading": [
+   {
+    "passage": "Junk food is now a staple of many Americans' diets. Advertising campaigns from the snack food companies, often featuring sports stars, send the message that we can neutralize any negative effects of consuming their products simply by getting more physical exercise. But recent studies show a lack of exercise is not to blame for rising obesity rates. Bad diets are.\nInterventions(干预) to help reduce junk food consumption are especially important for children and teenagers. Prevention is better than cure because obesity is so difficult to treat. Unfortunately, while health education has shown some success among young children, teens have been harder to reach.\nNow a large-scale study has tried an innovative approach to change teenagers' attitudes towards healthy eating, and the results are promising. The researchers argued that previous interventions have probably been unsuccessful because of a major flaw: they focused on a future, healthier you and assumed that this would be enough motivation for teenagers. In contrast, the new intervention cleverly exploits teenagers' instinct for rebelliousness and autonomy, and the value they place on social justice.\nTo do this, researchers had students read an article on the food industry. It revealed a secret about the manipulative and deceptive strategies used to make junk food more addictive and characterize the products as healthy. The article also explained how advertising campaigns specifically target very young and poor people, causing harm for these vulnerable groups. Afterwards, the participants read a fictional survey of teens who wanted to \"fight back against the companies by buying and eating less processed food\"\nAfter the intervention, participants associated healthy eating with autonomy and social justice. The teenagers also rated healthy eating as being more appealing. Importantly, there were also some promising effects of the new intervention on actual behavior. A day later the students were offered a choice of snacks and drinks in a seemingly unrelated context. The teens chose healthy snacks and drinks (such as fruit or water) more often over unhealthy options (like biscuits and soda). Apparently associating a healthy diet with teenagers' own values seems to be a promising avenue to prevent obesity.",
+    "items": [
+     {
+      "no": 46,
+      "stem": "What do we learn about advertising campaigns from the snack food companies?",
+      "options": [
+       {
+        "k": "A",
+        "t": "They convey the idea that their products are ok if consumers exercise more."
+       },
+       {
+        "k": "B",
+        "t": "They send the message that bad diets are responsible for Americans' obesity."
+       },
+       {
+        "k": "C",
+        "t": "They usually feature sports stars to emphasize the benefits of their snack foods."
+       },
+       {
+        "k": "D",
+        "t": "They claim that lack of exercise is to blame for the increasing obesity rates."
+       }
+      ],
+      "answer": "A",
+      "linkedWords": [
+       "CET4_4483",
+       "CET4_3620",
+       "CET4_2237",
+       "CET4_4522",
+       "CET4_0113",
+       "CET4_1779"
+      ]
+     },
+     {
+      "no": 47,
+      "stem": "What does the passage say about health education?",
+      "options": [
+       {
+        "k": "A",
+        "t": "It has shed light on teens' instinct for rebellion and autonomy."
+       },
+       {
+        "k": "B",
+        "t": "It has placed much more emphasis on cure than on prevention."
+       },
+       {
+        "k": "C",
+        "t": "It has contributed little to the campaigns against obesity."
+       },
+       {
+        "k": "D",
+        "t": "It has largely failed to turn teens away from junk food."
+       }
+      ],
+      "answer": "D",
+      "linkedWords": [
+       "CET4_2897",
+       "CET4_2275",
+       "CET4_1375",
+       "CET4_2132",
+       "CET4_2613"
+      ]
+     },
+     {
+      "no": 48,
+      "stem": "What is a major flaw in previous interventions to help reduce junk food consumption?",
+      "options": [
+       {
+        "k": "A",
+        "t": "They motivated teens to stay away from junk food only temporarily."
+       },
+       {
+        "k": "B",
+        "t": "They focused on the benefits young people would reap in the future."
+       },
+       {
+        "k": "C",
+        "t": "They were based on the assumption that motivation was the only key."
+       },
+       {
+        "k": "D",
+        "t": "They were incapable of appealing to teens' instinct for rebelliousness."
+       }
+      ],
+      "answer": "B",
+      "linkedWords": [
+       "CET4_0100",
+       "CET4_2370",
+       "CET4_2455",
+       "CET4_0475",
+       "CET4_0193",
+       "CET4_0592"
+      ]
+     },
+     {
+      "no": 49,
+      "stem": "In what way is the new intervention innovative?",
+      "options": [
+       {
+        "k": "A",
+        "t": "It emphasizes people's sense of social responsibility."
+       },
+       {
+        "k": "B",
+        "t": "It cleverly exploits teenagers' personal weaknesses."
+       },
+       {
+        "k": "C",
+        "t": "It takes advantage of teenagers' natural inclination."
+       },
+       {
+        "k": "D",
+        "t": "It promises immediate rather than future benefits."
+       }
+      ],
+      "answer": "C",
+      "linkedWords": [
+       "CET4_1213",
+       "CET4_4502",
+       "CET4_3219",
+       "CET4_0475",
+       "CET4_4528"
+      ]
+     },
+     {
+      "no": 50,
+      "stem": "What conclusion can be drawn from the new research?",
+      "options": [
+       {
+        "k": "A",
+        "t": "A totally different approach could be adopted to combat advertising campaigns for snack food."
+       },
+       {
+        "k": "B",
+        "t": "An effective intervention has to be found to persuade teenagers to switch to a healthier lifestyle."
+       },
+       {
+        "k": "C",
+        "t": "Obesity can be hopefully prevented by building links between teenagers' values and healthy eating."
+       },
+       {
+        "k": "D",
+        "t": "An innovative way to beat obesity is to expose food companies' manipulative and deceptive practices."
+       }
+      ],
+      "answer": "C",
+      "linkedWords": [
+       "CET4_0590",
+       "CET4_4502",
+       "CET4_1566",
+       "CET4_0169"
+      ]
+     }
+    ]
+   },
+   {
+    "passage": "Adults dream during REM (rapid eye movement) sleep and infants have loads of REM. So, it might be fair to assume that babies have tons of dreams.\nBut scientists believe REM serves a completely different purpose for newborns and infants than dreaming. When babies are in REM, it allows their brain to develop pathways, connections, and eventually, learn languages.\nSince your baby doesn't dream at this stage of brain development, it's safe to assume babies do not have nightmares, either. Nightmares stem from exposure to trauma(创伤), an overactive imagination, and the normal stresses of everyday life.\nAre you wondering, what do babies dream about? Good question, but the answer is nothing! So, when do babies start dreaming? The general consensus is that they start dreaming around the age of two. Psychologist David Foulkes studies children (from very small kids to teens) to bring the secrets of their dreams to the light of day. In his lab, he lets kids fall asleep and then wakes them 3 times a night and asks them to describe what they recall.\nFoulkes' findings are unsurprising. Basically, little kids have little dreams. But exactly what kids see while dreaming depends on their age. As children develop and grow, their dreams do too.\nDreams of very small kids are usually just snapshots(快照), looking much more like a slideshow than a movie, when compared to the dreams of adults. They heavily feature animals and other familiar sights, like images of people eating. According to Foulkes, \"Children's dream life…seems to be similar to their waking imagination and narration.\" Kids ages 5 – 9 begin seeing moving images and characters in action. Dreams now include multiple events strung together, one after the other. They also start developing greater ability to remember dreams. Still, that's not always the case: When roused during REM sleep, 25% of the kids in Foulkes' studies had no recollection of dreaming, a trend that continues through age 9.\nSo, if your baby seems to be in a stressful state while sleeping or is upset upon waking, there may be other factors at play.",
+    "items": [
+     {
+      "no": 51,
+      "stem": "What do scientists think of REM?",
+      "options": [
+       {
+        "k": "A",
+        "t": "It is a sign of dreaming in adults and infants alike."
+       },
+       {
+        "k": "B",
+        "t": "It is essential to human beings' language learning."
+       },
+       {
+        "k": "C",
+        "t": "It determines the formation of connections in the brain."
+       },
+       {
+        "k": "D",
+        "t": "It performs a different function in babies than in adults."
+       }
+      ],
+      "answer": "D",
+      "linkedWords": [
+       "CET4_3467",
+       "CET4_0375",
+       "CET4_1380"
+      ]
+     },
+     {
+      "no": 52,
+      "stem": "What can we infer about nightmares from the passage?",
+      "options": [
+       {
+        "k": "A",
+        "t": "They occur often in people with an active imagination."
+       },
+       {
+        "k": "B",
+        "t": "They occur in people suffering from emotional stress."
+       },
+       {
+        "k": "C",
+        "t": "They vary in different stages of brain development."
+       },
+       {
+        "k": "D",
+        "t": "They appear in the sleep of both adults and infants."
+       }
+      ],
+      "answer": "B",
+      "linkedWords": [
+       "CET4_0737",
+       "CET4_0305",
+       "CET4_0731",
+       "CET4_4537",
+       "CET4_2757"
+      ]
+     },
+     {
+      "no": 53,
+      "stem": "What is the aim of psychologist David Foulkes' study?",
+      "options": [
+       {
+        "k": "A",
+        "t": "To reveal the secrets of children's dreams."
+       },
+       {
+        "k": "B",
+        "t": "To see if children start dreaming at age two."
+       },
+       {
+        "k": "C",
+        "t": "To solve the mystery of dreaming and brain growth."
+       },
+       {
+        "k": "D",
+        "t": "To confirm the general consensus on when kids dream."
+       }
+      ],
+      "answer": "A",
+      "linkedWords": [
+       "CET4_0674",
+       "CET4_2084",
+       "CET4_0830"
+      ]
+     },
+     {
+      "no": 54,
+      "stem": "What are Foulkes' findings about kids' dreams?",
+      "options": [
+       {
+        "k": "A",
+        "t": "They feature strange animals."
+       },
+       {
+        "k": "B",
+        "t": "They are unsurprising to adults."
+       },
+       {
+        "k": "C",
+        "t": "They grow and evolve with age."
+       },
+       {
+        "k": "D",
+        "t": "They reflect kids' waking life."
+       }
+      ],
+      "answer": "C",
+      "linkedWords": [
+       "CET4_0333",
+       "CET4_2555",
+       "CET4_2336",
+       "CET4_2084"
+      ]
+     },
+     {
+      "no": 55,
+      "stem": "What can we assume about babies who appear upset upon waking?",
+      "options": [
+       {
+        "k": "A",
+        "t": "They have been roused against their will."
+       },
+       {
+        "k": "B",
+        "t": "They have been disturbed by a nightmare."
+       },
+       {
+        "k": "C",
+        "t": "They have trouble recollecting the images of their dreams."
+       },
+       {
+        "k": "D",
+        "t": "They have been affected by something other than dreaming."
+       }
+      ],
+      "answer": "D",
+      "linkedWords": [
+       "CET4_1221",
+       "CET4_2084",
+       "CET4_0078",
+       "CET4_1380",
+       "CET4_1301",
+       "CET4_4097"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "translation": {
+  "prompt": "近年来，\"城市漫步(city walk)\"在中国的年轻人中悄然兴起，已成为一种旅游新潮流。与传统旅游不同，城市漫步不追求在短时间内游览尽可能多的景点。而是随意行走或按照主题路线漫步在城市的大街小巷。漫步者品尝地道小吃，欣赏特色建筑，了解当地生活方式。他们还用相机或手机记录城市的风景和人物。这种旅游方式能让城市漫步者更深入了解城市的历史与文化。",
+  "sample": "In recent years, city walk has quietly emerged among young people in China and has become a new travel trend. Unlike traditional travel, city walk does not seek to visit as many attractions as possible in a short time. Instead, city walkers wander randomly or stroll along themed routes through the streets and alleys of the city. They taste authentic snacks, admire distinctive buildings, and learn about local ways of life. They also record the city's scenery and people with cameras or mobile phones. This travel style enables city walkers to gain a deeper understanding of the city's history and culture."
+ },
+ "answerKey": {
+  "26": "D",
+  "27": "E",
+  "28": "L",
+  "29": "N",
+  "30": "A",
+  "31": "H",
+  "32": "C",
+  "33": "M",
+  "34": "F",
+  "35": "K",
+  "36": "D",
+  "37": "I",
+  "38": "F",
+  "39": "A",
+  "40": "K",
+  "41": "G",
+  "42": "B",
+  "43": "J",
+  "44": "E",
+  "45": "H",
+  "46": "A",
+  "47": "D",
+  "48": "B",
+  "49": "C",
+  "50": "C",
+  "51": "D",
+  "52": "B",
+  "53": "A",
+  "54": "C",
+  "55": "D"
+ },
+ "source": {
+  "kind": "lazynote",
+  "url": "https://english-exam.lazynote.cn/cet4/paper/2025-12/",
+  "extractedAt": "2026-10-20",
+  "method": "html-text",
+  "answerSource": "third-party-analysis",
+  "confidence": "high",
+  "note": "答案来自第三方机构解析（懒笔记），非官方标准答案；原文为题面排版页文本。"
+ },
+ "stats": {
+  "reading": 30,
+  "listening": 0,
+  "items": 30
+ }
+}

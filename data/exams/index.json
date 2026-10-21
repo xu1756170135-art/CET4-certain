@@ -1,0 +1,90 @@
+{
+ "version": 1,
+ "generatedAt": "2026-10-20",
+ "sessions": [
+  {
+   "session": "2024-06",
+   "label": "2024 年 6 月",
+   "sets": [
+    {
+     "set": 1,
+     "file": "2024-06-1.json",
+     "title": "2024 年 6 月 · 第 1 套",
+     "stats": {
+      "reading": 30,
+      "listening": 0,
+      "items": 30
+     },
+     "answerSource": "third-party-analysis"
+    },
+    {
+     "set": 2,
+     "file": "2024-06-2.json",
+     "title": "2024 年 6 月 · 第 2 套",
+     "stats": {
+      "reading": 30,
+      "listening": 0,
+      "items": 30
+     },
+     "answerSource": "third-party-analysis"
+    },
+    {
+     "set": 3,
+     "file": "2024-06-3.json",
+     "title": "2024 年 6 月 · 第 3 套",
+     "stats": {
+      "reading": 30,
+      "listening": 0,
+      "items": 30
+     },
+     "answerSource": "third-party-analysis"
+    }
+   ]
+  },
+  {
+   "session": "2025-12",
+   "label": "2025 年 12 月",
+   "sets": [
+    {
+     "set": 1,
+     "file": "2025-12-1.json",
+     "title": "2025 年 12 月 · 第 1 套",
+     "stats": {
+      "reading": 30,
+      "listening": 0,
+      "items": 30
+     },
+     "answerSource": "third-party-analysis"
+    },
+    {
+     "set": 2,
+     "file": "2025-12-2.json",
+     "title": "2025 年 12 月 · 第 2 套",
+     "stats": {
+      "reading": 30,
+      "listening": 0,
+      "items": 30
+     },
+     "answerSource": "third-party-analysis"
+    },
+    {
+     "set": 3,
+     "file": "2025-12-3.json",
+     "title": "2025 年 12 月 · 第 3 套",
+     "stats": {
+      "reading": 30,
+      "listening": 0,
+      "items": 30
+     },
+     "answerSource": "third-party-analysis"
+    }
+   ]
+  }
+ ],
+ "totalSets": 6,
+ "notes": [
+  "2025-12 三套：HTML 题面 + 懒笔记机构解析（confidence high）。",
+  "2024-06 三套：CET46-Resources 原卷 PDF 文本层抽取 + 答案速查 PDF（machine parse，confidence medium）。",
+  "其余场次（2014.06–2026.06）的 PDF 已在 .cache/exams/四级真题/，但 2020–2025 多数答案册为扫描件，需要 OCR 才能提取答案；可按 README 的管线补齐。"
+ ]
+}

@@ -1,0 +1,48 @@
+{
+ "sets": [
+  {
+   "file": "2024-06-1.json",
+   "items": 30,
+   "linkedItems": 28,
+   "links": 103
+  },
+  {
+   "file": "2024-06-2.json",
+   "items": 30,
+   "linkedItems": 28,
+   "links": 96
+  },
+  {
+   "file": "2024-06-3.json",
+   "items": 30,
+   "linkedItems": 28,
+   "links": 99
+  },
+  {
+   "file": "2025-12-1.json",
+   "items": 30,
+   "linkedItems": 30,
+   "links": 103
+  },
+  {
+   "file": "2025-12-2.json",
+   "items": 30,
+   "linkedItems": 29,
+   "links": 105
+  },
+  {
+   "file": "2025-12-3.json",
+   "items": 30,
+   "linkedItems": 27,
+   "links": 85
+  }
+ ],
+ "coverage": {
+  "2024-06-1.json": 93,
+  "2024-06-2.json": 93,
+  "2024-06-3.json": 93,
+  "2025-12-1.json": 100,
+  "2025-12-2.json": 97,
+  "2025-12-3.json": 90
+ }
+}
